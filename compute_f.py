@@ -3,8 +3,8 @@ import scipy.signal as signal
 
 
 def split_ts_seq(ts_seq, sep_ts):
-    """
 
+    """
     :param ts_seq:
     :param sep_ts:
     :return:
@@ -28,8 +28,8 @@ def split_ts_seq(ts_seq, sep_ts):
 
 
 def correct_trajectory(original_xys, end_xy):
-    """
 
+    """
     :param original_xys: numpy ndarray, shape(N, 2)
     :param end_xy: numpy ndarray, shape(1, 2)
     :return:
