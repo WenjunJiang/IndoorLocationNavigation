@@ -1,3 +1,4 @@
+##This repository is a clone of original repository at [here](https://github.com/location-competition/indoor-location-competition-20). This is solely used for the purpose of working in the [kaggle competition](https://www.kaggle.com/c/indoor-location-navigation) and not anything else.
 # Indoor Location Competition 2.0 (Sample Data and Code)
 
 This repository contains sample data and code for [Indoor Location Competition 2.0](https://aka.ms/location20), a continuation of Microsoft Indoor Location Competition. Competition this year will be completely virtual and evaluated on large-scale real indoor location datasets. The dataset to be released consists of dense indoor signatures of WiFi, geomagnetic field, iBeacons etc., as well as ground truth collected from hundreds of buildings in Chinese cities. 
